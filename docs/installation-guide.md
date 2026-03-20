@@ -36,7 +36,7 @@ AWS_REGION=ap-northeast-2
 ATHENA_OUTPUT_LOCATION=s3://aws-athena-query-results/
 ```
 
-> Redash API 키는 Redash 웹 UI → 우측 상단 프로필 → Settings → API Key에서 확인할 수 있습니다.
+> Redash API 키는 Redash 웹 UI → 우측 상단 프로필 → Settings → Account → API Key에서 확인할 수 있습니다.
 
 ## 3. Claude Code에 MCP 서버 등록
 
